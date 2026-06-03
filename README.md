@@ -54,4 +54,4 @@
 ---
 
 > "I'm analytical and focused, with a genuine curiosity about how both simple and complex systems operate."  
-> — Always learning, experimenting, and securing the digital world.
+> — Always learning, experimenting, and securing the digital world. 
