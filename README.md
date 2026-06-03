@@ -4,7 +4,7 @@
 
 ---
 
-### About Me 
+### About Me  
 
 - 🔭 Currently contributing to **EDMO** (EU's largest interdisciplinary cyber security network)
 - 🌱 Learning **cybersecurity, digital forensics, systems administration, and AI**
